@@ -47,7 +47,7 @@ processed once.
 480 × 748 portrait, on the TB Suzz layout in the pedal's green: DELAY, SWELL and MIX,
 the charcoal treadle with the stomp switch on the right as on the pedal (glows red with
 the effect in), and the name plate with ECHO in stacked outline lettering (drawn in
-code). The strip along the bottom has the TB electronic logo with the build version,
+code). The strip along the bottom has the TB electronic logo,
 Input, Output, presets and the readout.
 
 Drag a knob up or down to turn it (hold Shift for fine control). Double-click a knob
